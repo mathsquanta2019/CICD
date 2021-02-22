@@ -21,6 +21,7 @@ public class Person {
 	private String lastName;
 	private int age;
 	private int salary;
+	private String almaMata;
 
 }
 
