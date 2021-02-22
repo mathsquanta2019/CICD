@@ -18,10 +18,12 @@ public class Person {
 	@Id
 	private int id;
 	private String firstName;
+	private String middleName;
 	private String lastName;
 	private int age;
 	private int salary;
 	private String almaMata;
+	
 
 }
 
